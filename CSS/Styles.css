@@ -1,0 +1,16 @@
+body{
+background-color: fcfcfc;
+font-family: 'Roboto Medium', 'Roboto Regular', 'Ralaway Bold', sans-serif; 
+color: #2e2f42;
+}
+ul,ol{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
