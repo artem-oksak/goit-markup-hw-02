@@ -32,6 +32,9 @@ letter-spacing:2%
 .studio:active{ 
     color:#404bbf
 }
+.studio:focus{
+    color: #404bbf
+}
 
 ul,ol{
     list-style-type: none;
