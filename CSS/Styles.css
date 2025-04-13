@@ -36,12 +36,17 @@ address{
 }
 
 .contact{
-letter-spacing: 0.02;
+letter-spacing: 0.02em;
 color: #434455;
 }
 .contact:hover,
 .contact:focus{
     color: #404bbf;
+}
+
+.section-1{
+    background-color: #2e2f42;
+
 }
 
 ul,ol{
@@ -60,6 +65,24 @@ a:hover{
     font-family: roboto;
     font-weight: bold;
     font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02;
+    color: #ffffff;
+
+}
+
+.button-order-service{
+    background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+
+.button-order-service:hover,
+.button-order-service:focus{
+    background-color: #404BBF;
 }
 
 .header2{
