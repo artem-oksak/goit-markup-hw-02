@@ -36,8 +36,8 @@ address{
 }
 
 .contact{
-letter-spacing: 0.02em;
-color: #434455;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 .contact:hover,
 .contact:focus{
@@ -61,13 +61,13 @@ a:hover{
     color:#4D5AE5;
 }
 
-.header1{
+.header-1{
     font-family: roboto;
     font-weight: bold;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     color: #ffffff;
 
 }
@@ -85,27 +85,26 @@ a:hover{
     background-color: #404BBF;
 }
 
-.header2{
+.header-2{
     font-family:robot;
     font-weight:bold;
     font-size: 36px;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
 }
 
-.header3{
+.header-3{
     font-family:roboto;
     font-weight: 500;
     font-size: 20px;
 }
 
-button{
-    cursor: pointer;
-}
-
-.feature-text1{
+.feature-text{
     font-family: roboto;
     font-weight: 400;
     font-size:16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .header3-text{
@@ -119,6 +118,14 @@ button{
     font-family: roboto;
     font-weight: 400;
     line-height: 1.5;
+   
+
+
+
+    button {
+            cursor: pointer;
+        }
+
 
     /*
 }
