@@ -131,23 +131,29 @@ a:hover{
     color:#434455;
 }
 
+
+.footer {
+    background-color: #2e2f42;
+}
+
 .footer-text{
     color:#F4F4FD;
     font-family: roboto;
-    font-weight: 400;
-    line-height: 1.5;
-   
+    letter-spacing: 0.02em;
+}
 
 
 
-    button {
+button {
             cursor: pointer;
         }
 
-        .footer{
-            background-color: #2e2f42;
-        }
 
+
+
+
+
+        
     /*
 }
 .logo-web{
