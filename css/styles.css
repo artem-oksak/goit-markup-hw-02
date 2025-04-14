@@ -46,12 +46,12 @@ address{
     color: #404bbf;
 }
 
-.section-1-strategy{
+.section-strategy{
     background-color: #2e2f42;
 
 }
 
-.section-3-Our Team{
+.section-Our Team{
     background-color: #F4F4FD;
 }
 
@@ -69,7 +69,7 @@ a:hover{
     color:#4D5AE5;
 }
 
-.header-1{
+.header-one{
     font-family: roboto;
     font-weight: bold;
     font-size: 56px;
@@ -93,7 +93,7 @@ a:hover{
     background-color: #404BBF;
 }
 
-.header-2{
+.header-two{
     font-family:robot;
     font-weight:bold;
     line-height: 1.11;
@@ -108,7 +108,7 @@ a:hover{
     background-color: #FFFFFF
 }
 
-.header-3{
+.header-three{
     font-family:roboto;
     font-weight: 500;
     font-size: 20px;
@@ -125,7 +125,7 @@ a:hover{
     letter-spacing: 0.02em;
 }
 
-.header3-text{
+.header-three-text{
     font-weight:400;
     font-size:16px;
     line-height: 1.5;
