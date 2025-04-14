@@ -44,7 +44,7 @@ address{
     color: #404bbf;
 }
 
-.section-1{
+.section-1-strategy{
     background-color: #2e2f42;
 
 }
@@ -52,6 +52,8 @@ address{
 .section-3-Our Team{
     background-color: #F4F4FD;
 }
+
+
 
 ul,ol{
     list-style-type: none;
