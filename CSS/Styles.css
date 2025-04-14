@@ -49,6 +49,10 @@ address{
 
 }
 
+.section-3-Our Team{
+    background-color: #F4F4FD;
+}
+
 ul,ol{
     list-style-type: none;
 }
@@ -88,15 +92,25 @@ a:hover{
 .header-2{
     font-family:robot;
     font-weight:bold;
+    line-height: 1.11;
+    text-align: center;
+    text-transform: capitalize;
     font-size: 36px;
     letter-spacing: 0.02em;
     color:#2e2f42;
+}
+
+.mark{
+    background-color: #FFFFFF
 }
 
 .header-3{
     font-family:roboto;
     font-weight: 500;
     font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
 }
 
 .feature-text{
@@ -109,8 +123,10 @@ a:hover{
 
 .header3-text{
     font-weight:400;
-    font-size:16;
+    font-size:16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
 }
 
 .footer-text{
