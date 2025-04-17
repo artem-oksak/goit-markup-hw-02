@@ -144,7 +144,7 @@ a:hover{
 }
 
 .logo-web{
-    font-family:"Ralway",sans-serif;
+    font-family:"Raleway",sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -153,9 +153,13 @@ a:hover{
     color:#4d5ae5;
 }
 
+.logo-studio{
+    color:#f4f4fd;
+}
+
 .footer-text{
     color:#F4F4FD;
-    font-family: roboto;
+    font-family: Roboto;
     letter-spacing: 0.02em;
 }
 
